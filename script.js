@@ -3,8 +3,8 @@ const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
 // Set the canvas dimensions
-canvas.width = 640;
-canvas.height = 480;
+canvas.width = 1080;
+canvas.height = 7200;
 
 // Game variables
 let playerX = canvas.width / 2;
